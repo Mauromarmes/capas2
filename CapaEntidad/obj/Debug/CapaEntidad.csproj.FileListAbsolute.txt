@@ -1,0 +1,5 @@
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaEntidad\obj\Debug\CapaEntidad.pdb

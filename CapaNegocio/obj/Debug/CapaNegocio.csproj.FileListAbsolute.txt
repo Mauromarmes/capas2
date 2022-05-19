@@ -1,0 +1,11 @@
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\CESDE SEGUNDO SEMESTRE\capas\CapaNegocio\obj\Debug\CapaNegocio.pdb
